@@ -32,6 +32,9 @@
   </div>
 
    <h1> Thank You, Happy Learning </h1>
-   <h1> See You Again </h1>
+   <h1> See You Again </h1>  
+   <h3> Thank you for beeing this tutorials </h3> 
+   <h3> I Have one more request please do more projects with all tools in Hindi Thanks again...</h3>
+   
   
 </form>
